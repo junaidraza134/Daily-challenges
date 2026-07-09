@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/junaidraza134/Daily-challenges/tree/master/0303-range-sum-query-immutable) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/junaidraza134/Daily-challenges/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/junaidraza134/Daily-challenges/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Design
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/junaidraza134/Daily-challenges/tree/master/0303-range-sum-query-immutable) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/junaidraza134/Daily-challenges/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/junaidraza134/Daily-challenges/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/junaidraza134/Daily-challenges/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
