@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/junaidraza134/Daily-challenges/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/junaidraza134/Daily-challenges/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/junaidraza134/Daily-challenges/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/junaidraza134/Daily-challenges/tree/master/2685-count-the-number-of-complete-components) |
 ## Array
 |  |
 | ------- |
@@ -61,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/junaidraza134/Daily-challenges/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/junaidraza134/Daily-challenges/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/junaidraza134/Daily-challenges/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/junaidraza134/Daily-challenges/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
@@ -97,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/junaidraza134/Daily-challenges/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
