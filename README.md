@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/junaidraza134/Daily-challenges/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/junaidraza134/Daily-challenges/tree/master/0303-range-sum-query-immutable) |
+| [0413-arithmetic-slices](https://github.com/junaidraza134/Daily-challenges/tree/master/0413-arithmetic-slices) |
 | [0485-max-consecutive-ones](https://github.com/junaidraza134/Daily-challenges/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/junaidraza134/Daily-challenges/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/junaidraza134/Daily-challenges/tree/master/0875-koko-eating-bananas) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/junaidraza134/Daily-challenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/junaidraza134/Daily-challenges/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/junaidraza134/Daily-challenges/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/junaidraza134/Daily-challenges/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/junaidraza134/Daily-challenges/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/junaidraza134/Daily-challenges/tree/master/1004-max-consecutive-ones-iii) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0413-arithmetic-slices](https://github.com/junaidraza134/Daily-challenges/tree/master/0413-arithmetic-slices) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
