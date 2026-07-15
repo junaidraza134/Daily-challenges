@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/junaidraza134/Daily-challenges/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/junaidraza134/Daily-challenges/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/junaidraza134/Daily-challenges/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/junaidraza134/Daily-challenges/tree/master/0643-maximum-average-subarray-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/junaidraza134/Daily-challenges/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/junaidraza134/Daily-challenges/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/junaidraza134/Daily-challenges/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/junaidraza134/Daily-challenges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/junaidraza134/Daily-challenges/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/junaidraza134/Daily-challenges/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/junaidraza134/Daily-challenges/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/junaidraza134/Daily-challenges/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/junaidraza134/Daily-challenges/tree/master/1004-max-consecutive-ones-iii) |
