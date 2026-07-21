@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/junaidraza134/Daily-challenges/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/junaidraza134/Daily-challenges/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/junaidraza134/Daily-challenges/tree/master/0876-middle-of-the-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/junaidraza134/Daily-challenges/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -189,5 +190,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/0142-linked-list-cycle-ii) |
+| [0234-palindrome-linked-list](https://github.com/junaidraza134/Daily-challenges/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/junaidraza134/Daily-challenges/tree/master/0876-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/junaidraza134/Daily-challenges/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/junaidraza134/Daily-challenges/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
