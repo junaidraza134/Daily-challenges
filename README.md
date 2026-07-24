@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/junaidraza134/Daily-challenges/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/junaidraza134/Daily-challenges/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/junaidraza134/Daily-challenges/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0240-search-a-2d-matrix-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/0240-search-a-2d-matrix-ii) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/junaidraza134/Daily-challenges/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0875-koko-eating-bananas](https://github.com/junaidraza134/Daily-challenges/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/junaidraza134/Daily-challenges/tree/master/1004-max-consecutive-ones-iii) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/junaidraza134/Daily-challenges/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/0219-contains-duplicate-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/0240-search-a-2d-matrix-ii) |
 | [0303-range-sum-query-immutable](https://github.com/junaidraza134/Daily-challenges/tree/master/0303-range-sum-query-immutable) |
 | [0413-arithmetic-slices](https://github.com/junaidraza134/Daily-challenges/tree/master/0413-arithmetic-slices) |
 | [0485-max-consecutive-ones](https://github.com/junaidraza134/Daily-challenges/tree/master/0485-max-consecutive-ones) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/junaidraza134/Daily-challenges/tree/master/1260-shift-2d-grid) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/junaidraza134/Daily-challenges/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
@@ -224,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
