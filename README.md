@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/junaidraza134/Daily-challenges/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/junaidraza134/Daily-challenges/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/junaidraza134/Daily-challenges/tree/master/0066-plus-one) |
 | [0209-minimum-size-subarray-sum](https://github.com/junaidraza134/Daily-challenges/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/0240-search-a-2d-matrix-ii) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/junaidraza134/Daily-challenges/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/junaidraza134/Daily-challenges/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/junaidraza134/Daily-challenges/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/junaidraza134/Daily-challenges/tree/master/1979-find-greatest-common-divisor-of-array) |
