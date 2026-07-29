@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/junaidraza134/Daily-challenges/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/junaidraza134/Daily-challenges/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/junaidraza134/Daily-challenges/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/0240-search-a-2d-matrix-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/junaidraza134/Daily-challenges/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/junaidraza134/Daily-challenges/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/junaidraza134/Daily-challenges/tree/master/0202-happy-number) |
