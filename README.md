@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/junaidraza134/Daily-challenges/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/junaidraza134/Daily-challenges/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/junaidraza134/Daily-challenges/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/junaidraza134/Daily-challenges/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/junaidraza134/Daily-challenges/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/0240-search-a-2d-matrix-ii) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/junaidraza134/Daily-challenges/tree/master/0136-single-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/junaidraza134/Daily-challenges/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/3534-path-existence-queries-in-a-graph-ii) |
