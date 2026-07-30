@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/junaidraza134/Daily-challenges/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/junaidraza134/Daily-challenges/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/junaidraza134/Daily-challenges/tree/master/0268-missing-number) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/junaidraza134/Daily-challenges/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0875-koko-eating-bananas](https://github.com/junaidraza134/Daily-challenges/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/junaidraza134/Daily-challenges/tree/master/1004-max-consecutive-ones-iii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/junaidraza134/Daily-challenges/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/junaidraza134/Daily-challenges/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/junaidraza134/Daily-challenges/tree/master/0303-range-sum-query-immutable) |
 | [0413-arithmetic-slices](https://github.com/junaidraza134/Daily-challenges/tree/master/0413-arithmetic-slices) |
 | [0485-max-consecutive-ones](https://github.com/junaidraza134/Daily-challenges/tree/master/0485-max-consecutive-ones) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/junaidraza134/Daily-challenges/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/junaidraza134/Daily-challenges/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/junaidraza134/Daily-challenges/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/junaidraza134/Daily-challenges/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/junaidraza134/Daily-challenges/tree/master/1331-rank-transform-of-an-array) |
@@ -169,12 +172,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/junaidraza134/Daily-challenges/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/junaidraza134/Daily-challenges/tree/master/0268-missing-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/junaidraza134/Daily-challenges/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/junaidraza134/Daily-challenges/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/junaidraza134/Daily-challenges/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/junaidraza134/Daily-challenges/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/junaidraza134/Daily-challenges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -199,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/junaidraza134/Daily-challenges/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/junaidraza134/Daily-challenges/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/junaidraza134/Daily-challenges/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/junaidraza134/Daily-challenges/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/junaidraza134/Daily-challenges/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/junaidraza134/Daily-challenges/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
