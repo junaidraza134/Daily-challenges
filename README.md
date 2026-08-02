@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/junaidraza134/Daily-challenges/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/junaidraza134/Daily-challenges/tree/master/0643-maximum-average-subarray-i) |
 | [0875-koko-eating-bananas](https://github.com/junaidraza134/Daily-challenges/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/junaidraza134/Daily-challenges/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/junaidraza134/Daily-challenges/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/junaidraza134/Daily-challenges/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/junaidraza134/Daily-challenges/tree/master/1260-shift-2d-grid) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0413-arithmetic-slices](https://github.com/junaidraza134/Daily-challenges/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/junaidraza134/Daily-challenges/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/junaidraza134/Daily-challenges/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/junaidraza134/Daily-challenges/tree/master/1143-longest-common-subsequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/junaidraza134/Daily-challenges/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/junaidraza134/Daily-challenges/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/junaidraza134/Daily-challenges/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/junaidraza134/Daily-challenges/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/junaidraza134/Daily-challenges/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/junaidraza134/Daily-challenges/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/junaidraza134/Daily-challenges/tree/master/3312-sorted-gcd-pair-queries) |
@@ -301,4 +304,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/junaidraza134/Daily-challenges/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/junaidraza134/Daily-challenges/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
