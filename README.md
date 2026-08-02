@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/junaidraza134/Daily-challenges/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/junaidraza134/Daily-challenges/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/junaidraza134/Daily-challenges/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/junaidraza134/Daily-challenges/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/junaidraza134/Daily-challenges/tree/master/1004-max-consecutive-ones-iii) |
 | [1260-shift-2d-grid](https://github.com/junaidraza134/Daily-challenges/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/junaidraza134/Daily-challenges/tree/master/1331-rank-transform-of-an-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/junaidraza134/Daily-challenges/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/junaidraza134/Daily-challenges/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/junaidraza134/Daily-challenges/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/junaidraza134/Daily-challenges/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/junaidraza134/Daily-challenges/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/junaidraza134/Daily-challenges/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3312-sorted-gcd-pair-queries](https://github.com/junaidraza134/Daily-challenges/tree/master/3312-sorted-gcd-pair-queries) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/junaidraza134/Daily-challenges/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/junaidraza134/Daily-challenges/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/junaidraza134/Daily-challenges/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/junaidraza134/Daily-challenges/tree/master/0930-binary-subarrays-with-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/junaidraza134/Daily-challenges/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/junaidraza134/Daily-challenges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/junaidraza134/Daily-challenges/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/junaidraza134/Daily-challenges/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/junaidraza134/Daily-challenges/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/junaidraza134/Daily-challenges/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/junaidraza134/Daily-challenges/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/junaidraza134/Daily-challenges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/junaidraza134/Daily-challenges/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
