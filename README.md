@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/junaidraza134/Daily-challenges/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/junaidraza134/Daily-challenges/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/junaidraza134/Daily-challenges/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/junaidraza134/Daily-challenges/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/junaidraza134/Daily-challenges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/junaidraza134/Daily-challenges/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/junaidraza134/Daily-challenges/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/junaidraza134/Daily-challenges/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/junaidraza134/Daily-challenges/tree/master/0234-palindrome-linked-list) |
@@ -367,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/junaidraza134/Daily-challenges/tree/master/0056-merge-intervals) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/junaidraza134/Daily-challenges/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
