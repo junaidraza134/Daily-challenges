@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/junaidraza134/Daily-challenges/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/junaidraza134/Daily-challenges/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/junaidraza134/Daily-challenges/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/junaidraza134/Daily-challenges/tree/master/0645-set-mismatch) |
 | [0875-koko-eating-bananas](https://github.com/junaidraza134/Daily-challenges/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/junaidraza134/Daily-challenges/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/junaidraza134/Daily-challenges/tree/master/0904-fruit-into-baskets) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/junaidraza134/Daily-challenges/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/junaidraza134/Daily-challenges/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/junaidraza134/Daily-challenges/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/junaidraza134/Daily-challenges/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/junaidraza134/Daily-challenges/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/junaidraza134/Daily-challenges/tree/master/1248-count-number-of-nice-subarrays) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/junaidraza134/Daily-challenges/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/junaidraza134/Daily-challenges/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/junaidraza134/Daily-challenges/tree/master/0645-set-mismatch) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/junaidraza134/Daily-challenges/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/junaidraza134/Daily-challenges/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/junaidraza134/Daily-challenges/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/junaidraza134/Daily-challenges/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/junaidraza134/Daily-challenges/tree/master/0645-set-mismatch) |
 | [1331-rank-transform-of-an-array](https://github.com/junaidraza134/Daily-challenges/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/junaidraza134/Daily-challenges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/junaidraza134/Daily-challenges/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
