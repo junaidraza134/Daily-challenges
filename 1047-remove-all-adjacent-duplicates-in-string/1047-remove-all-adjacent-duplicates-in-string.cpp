@@ -6,7 +6,7 @@ public:
             if(!st.empty() && st.top()==s[i]){
                 st.pop();
             }else{
-                st.push(s[i]);
+            st.push(s[i]);
             }
         }
         string ans="";
@@ -16,7 +16,8 @@ public:
         }
         reverse(ans.begin(),ans.end());
         return ans;
-    
+
+
         
     }
 };
