@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/junaidraza134/Daily-challenges/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/junaidraza134/Daily-challenges/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/junaidraza134/Daily-challenges/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/junaidraza134/Daily-challenges/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/junaidraza134/Daily-challenges/tree/master/1406-stone-game-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/junaidraza134/Daily-challenges/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/junaidraza134/Daily-challenges/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/junaidraza134/Daily-challenges/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/junaidraza134/Daily-challenges/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/junaidraza134/Daily-challenges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/junaidraza134/Daily-challenges/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/junaidraza134/Daily-challenges/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/junaidraza134/Daily-challenges/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/junaidraza134/Daily-challenges/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/junaidraza134/Daily-challenges/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/junaidraza134/Daily-challenges/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/junaidraza134/Daily-challenges/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/junaidraza134/Daily-challenges/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/junaidraza134/Daily-challenges/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/junaidraza134/Daily-challenges/tree/master/0645-set-mismatch) |
+| [1386-cinema-seat-allocation](https://github.com/junaidraza134/Daily-challenges/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/junaidraza134/Daily-challenges/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/junaidraza134/Daily-challenges/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/3514-number-of-unique-xor-triplets-ii) |
