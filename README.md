@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/junaidraza134/Daily-challenges/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/junaidraza134/Daily-challenges/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/junaidraza134/Daily-challenges/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/junaidraza134/Daily-challenges/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/junaidraza134/Daily-challenges/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/junaidraza134/Daily-challenges/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/junaidraza134/Daily-challenges/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/junaidraza134/Daily-challenges/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/junaidraza134/Daily-challenges/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/junaidraza134/Daily-challenges/tree/master/1386-cinema-seat-allocation) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/junaidraza134/Daily-challenges/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/junaidraza134/Daily-challenges/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/junaidraza134/Daily-challenges/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/junaidraza134/Daily-challenges/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/junaidraza134/Daily-challenges/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/junaidraza134/Daily-challenges/tree/master/1260-shift-2d-grid) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/junaidraza134/Daily-challenges/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/junaidraza134/Daily-challenges/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/junaidraza134/Daily-challenges/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Simulation
