@@ -503,4 +503,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/junaidraza134/Daily-challenges/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/junaidraza134/Daily-challenges/tree/master/1401-circle-and-rectangle-overlapping) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/junaidraza134/Daily-challenges/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
